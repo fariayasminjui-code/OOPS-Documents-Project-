@@ -5,7 +5,7 @@
 
 A console-based Digital Forensics Tool developed in C++ for collecting, preserving, analyzing and reporting digital evidence.
 
-## ✨ Features
+## Features
 
 - File Evidence Collection
 - Custom Hash Generation (Integrity Verification)
@@ -15,14 +15,14 @@ A console-based Digital Forensics Tool developed in C++ for collecting, preservi
 - Activity Logging System
 - Report Generation (TXT)
 
-## 👥 Team Members
+## Team Members
 
 | Name                | Student ID | Email                    |
 |---------------------|------------|--------------------------|
 | Faria Yasmin Jui    | 2404036    | 2404036@uftb.ac.bd      |
 | Atiqur Rahman       | 2404037    | 2404037@uftb.ac.bd      |
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - Language: **C++**
 - Paradigm: **OOP**
